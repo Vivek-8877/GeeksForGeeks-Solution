@@ -1,3 +1,7 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1
+// Video Solution Link :- https://www.youtube.com/watch?v=-gI6II7eTfc
+
+
 //{ Driver Code Starts
 //Initial Template for Java
 
