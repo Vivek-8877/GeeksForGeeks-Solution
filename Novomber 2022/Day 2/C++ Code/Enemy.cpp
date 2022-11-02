@@ -1,3 +1,7 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/enemy/1
+// Video Solution Link :- https://www.youtube.com/watch?v=oer2YIPWDgI
+
+
 //{ Driver Code Starts
 //Initial Template for C++
 
