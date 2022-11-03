@@ -1,3 +1,6 @@
+// Problem Link :-https://practice.geeksforgeeks.org/problems/array-removals/1
+// Video Solution Link :- https://www.youtube.com/watch?v=d_p7QCwqZ6A
+
 //{ Driver Code Starts
 //Initial Template for C++
 
