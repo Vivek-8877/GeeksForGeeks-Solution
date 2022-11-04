@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/base-equivalence1022/1
-// Video Solution Link :- 
+// Video Solution Link :- https://www.youtube.com/watch?v=ERvz7yZjPXA
 
 //{ Driver Code Starts
 // Initial Template for C++
