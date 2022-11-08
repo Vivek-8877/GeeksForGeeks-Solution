@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1
+// Video Solution Link :- https://www.youtube.com/watch?v=1e1i5G7didI
+
 //{ Driver Code Starts
 //Initial Template for Java
 import java.io.*;
