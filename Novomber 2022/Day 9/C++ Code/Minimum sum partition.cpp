@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1
+// Video Link :- https://youtu.be/WuEIJIDAJ-w
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
