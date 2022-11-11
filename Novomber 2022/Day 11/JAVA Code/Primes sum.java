@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/primes-sum5827/1
+// Video Solution Link :- https://youtu.be/lHty0tFJSRE
+
 //{ Driver Code Starts
 //Initial Template for Java
 //Initial Template for Java
