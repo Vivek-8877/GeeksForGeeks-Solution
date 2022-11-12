@@ -1,3 +1,7 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/maximum-sub-string-after-at-most-k-changes3220/1
+// Video Solution Link :- https://youtu.be/8YLpilaVL44
+
+
 //{ Driver Code Starts
 //Initial Template for Java
 
