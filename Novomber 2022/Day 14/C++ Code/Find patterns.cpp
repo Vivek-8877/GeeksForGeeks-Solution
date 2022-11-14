@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/find-patterns0606/1
+// Video Solution Link :- https://youtu.be/X-qmx_2xuQs
+
 //{ Driver Code Starts
 //Initial template for C++
 
