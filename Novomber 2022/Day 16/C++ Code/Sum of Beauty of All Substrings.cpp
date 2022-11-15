@@ -21,13 +21,13 @@ class Solution {
             vector<int> fre(26,0);
             for(int j=i;j<s.length();j++) {
                 fre[s[j]-'a']++;
-                ans+=find(fre);
+                ans+=findBeauty(fre);
             }
         }
         return ans;
     }
     
-    int find(vector<int> fre) {
+    int findBeauty(vector<int> fre) {
         int mx=INT_MIN,mn=INT_MAX;
         for(int f : fre) {
             if(f==0) continue;
