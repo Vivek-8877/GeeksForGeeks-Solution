@@ -35,13 +35,13 @@ class Solution {
             int[] fre = new int[26];
             for(int j=i;j<s.length();j++) {
                 fre[s.charAt(j)-'a']++;
-                ans+=find(fre);
+                ans+=findBeauty(fre);
             }
         }
         return ans;
     }
     
-    public static int find(int[] fre) {
+    public static int findBeauty(int[] fre) {
         int max=Integer.MIN_VALUE,min=Integer.MAX_VALUE;
         for(int f : fre) {
             if(f==0) continue;
