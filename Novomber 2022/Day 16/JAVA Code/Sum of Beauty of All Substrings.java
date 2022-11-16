@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1
-// Video Solution Link :- 
+// Video Solution Link :- https://youtu.be/WfWwgpipfEI
 
 //{ Driver Code Starts
 import java.io.*;
