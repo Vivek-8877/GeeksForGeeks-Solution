@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/count-of-subarrays5922/1
-// Video Solution Link :-
+// Video Solution Link :- https://youtu.be/cluFktVZPhA
 
 //{ Driver Code Starts
 // Initial Template for Java
