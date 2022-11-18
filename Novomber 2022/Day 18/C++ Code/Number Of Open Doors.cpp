@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/number-of-open-doors1552/1
-// Video Solution Link :-
+// Video Solution Link :- https://youtu.be/A1lGsnt3rfA
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
