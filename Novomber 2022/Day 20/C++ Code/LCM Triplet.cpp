@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/lcm-triplet1501/1
+// Video Solution Link :- https://youtu.be/2hrQZQDak_k
+
 //{ Driver Code Starts
 // Initial Template for C++
 
