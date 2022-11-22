@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/magic-triplets4003/1
+// Video Solution Link :- https://youtu.be/z3ZsDoRg4uw
+
 //{ Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
