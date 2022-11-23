@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/maximum-sum-lcm3025/1
+// Vidoe Solution Link :- https://youtu.be/5S-WXPv0peg
+
 //{ Driver Code Starts
 //Initial Template for Java
 import java.util.*;
