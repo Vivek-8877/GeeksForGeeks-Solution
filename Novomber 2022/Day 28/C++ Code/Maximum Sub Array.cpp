@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/maximum-sub-array5443/1
+// Video Solution Link :- https://youtu.be/HxTo8vRl6R8
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 
