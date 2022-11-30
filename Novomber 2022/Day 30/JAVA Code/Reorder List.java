@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/reorder-list/1
+// Video Solution Link :- https://youtu.be/no3NIeoCamE
+
 //{ Driver Code Starts
 import java.util.*;
 
