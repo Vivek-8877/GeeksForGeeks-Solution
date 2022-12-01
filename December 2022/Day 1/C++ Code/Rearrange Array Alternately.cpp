@@ -1,3 +1,6 @@
+// Problem Link :- https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1
+// Video Solution Link :- https://youtu.be/l3GMXS_Q1fs
+
 //{ Driver Code Starts
 // C++ program to rearrange an array in minimum 
 // maximum form 
