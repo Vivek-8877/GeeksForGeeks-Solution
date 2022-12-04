@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/alternate-vowel-and-consonant-string2939/1
-// Video Solution Link :- 
+// Video Solution Link :- https://youtu.be/tfpmSfEzKCg
 
 //{ Driver Code Starts
 // Initial Template for Java
