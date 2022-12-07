@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1
-// Video Solution Link :- https://www.youtube.com/channel/UC1P9bWDLTPS1Zp03m5PQEoQ
+// Video Solution Link :- https://youtu.be/mH4uUqz4zMA
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
