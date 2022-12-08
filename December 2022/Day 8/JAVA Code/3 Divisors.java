@@ -1,5 +1,5 @@
-Problem Link :- https://practice.geeksforgeeks.org/problems/3-divisors3942/1
-Video Solution Link :- https://www.youtube.com/channel/UC1P9bWDLTPS1Zp03m5PQEoQ
+// Problem Link :- https://practice.geeksforgeeks.org/problems/3-divisors3942/1
+// Video Solution Link :- https://youtu.be/Nv6NtSk4igU
 
 //{ Driver Code Starts
 //Initial Template for Java
