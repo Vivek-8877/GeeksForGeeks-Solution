@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/black-and-white-1587115620/1
-// Video Solution Link :- https://www.youtube.com/channel/UC1P9bWDLTPS1Zp03m5PQEoQ
+// Video Solution Link :- https://youtu.be/kpVaUgVrn60
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
