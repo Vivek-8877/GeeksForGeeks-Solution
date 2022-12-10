@@ -1,5 +1,5 @@
 // Probelm Link :- https://practice.geeksforgeeks.org/problems/build-the-smallest2841/1
-// Video Solution Link :- https://www.youtube.com/channel/UC1P9bWDLTPS1Zp03m5PQEoQ
+// Video Solution Link :- https://youtu.be/54ERJnlqKAo
 
 //{ Driver Code Starts
 #include<bits/stdc++.h>
