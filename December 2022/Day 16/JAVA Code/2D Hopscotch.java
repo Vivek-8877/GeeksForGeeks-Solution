@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/hopscotch4857/1
-// Video Solution is Commin Soon :- https://www.youtube.com/channel/UC1P9bWDLTPS1Zp03m5PQEoQ
+// Video Solution is Commin Soon :- https://youtu.be/2YZfVj7l8ds
 
 //{ Driver Code Starts
 //Initial Template for Java
