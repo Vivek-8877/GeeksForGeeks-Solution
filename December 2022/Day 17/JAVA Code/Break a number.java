@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/break-a-number5913/1
-// Video Solution Link :- https://www.youtube.com/channel/UC1P9bWDLTPS1Zp0
+// Video Solution Link :- https://youtu.be/gOvj1bBg-VI
 
 //{ Driver Code Starts
 
