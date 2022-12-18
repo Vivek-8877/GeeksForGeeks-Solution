@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/a-game-of-lcm2531/1
-// Video Solution Link :- 
+// Video Solution Link :- https://youtu.be/OnM_aCgE5ho
 
 //{ Driver Code Starts
 // Initial Template for Java
@@ -25,18 +25,18 @@ class GFG {
 // User function Template for Java
 
 class Solution {
-    // Time Complexity :- O(n);
+    // Time Complexity :- O(n.log(n));
     // Space Complexity :- O(1);
     long solve(long n) {
-        long a1 = n*(n-1);
+        long a1 = n;
         int include=0;
-        for(long i=n-2;i>=1;i--) {
+        for(long i=n-1;i>=1;i--) {
             long g = gcd(a1,i);
             if(g==1) {
                 a1*=i;
                 include++;
             }
-            if(include==2) return a1;
+            if(include==3) return a1;
         }
         return a1;
     }
