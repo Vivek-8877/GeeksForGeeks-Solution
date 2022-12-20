@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/a-difference-of-values-and-indexes0302/1
-// Video Solution Link :- 
+// Video Solution Link :- https://youtu.be/KWjBln7Na-M
 
 //{ Driver Code Starts
 //Initial Template for Java
