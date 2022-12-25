@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/missing-number-in-matrix5316/1
-// Video Solution Link :- 
+// Video Solution Link :- https://youtu.be/2mFvPNUVu7Q
 
 //{ Driver Code Starts
 #include<bits/stdc++.h>
@@ -7,50 +7,57 @@ using namespace std;
 
 // } Driver Code Ends
 
+
 #define ll long long int
 class Solution {
 public:
     // Time Complexity :- O(n*n);
-    // Space Complexity :- O(2*n);
+    // Space Complexity :- O(1);
     long long int MissingNo(vector<vector<int> >& matrix) {
         // Code here
         int n = matrix.size();
         int idx=-1,jdx=-1;
-        ll d1=0,d2=0,actual_sum=0;
-        vector<vector<ll>> sum(n,vector<ll>(2,0));
-        // sum[i][0] --> Sum of jth Row   &&  sum[i][1] --> Sum of ith column
+        ll expected_sum=-1,required_sum=-1,sum=0;
         for(int i=0;i<n;i++) {
             bool isChanged = false;
+            sum=0;
             for(int j=0;j<n;j++) {
                 if(matrix[i][j]==0) {
                     idx=i;
                     jdx=j;
                     isChanged=true;
                 }
-                if(i==j) {
-                    d1+=matrix[i][j];
-                }
-                if(i==n-j-1) {
-                    d2+=matrix[i][j];
-                }
-                sum[i][0]+=matrix[i][j];
-                sum[i][1]+=matrix[j][i];
+                sum+=matrix[i][j];
             }
-            if(!isChanged) actual_sum=sum[i][0];
+            if(isChanged) {
+                required_sum=sum;
+            } else {
+                expected_sum=sum;
+            }
+            if(idx!=-1 && jdx!=-1 && required_sum!=-1 && expected_sum!=-1) break;
         }
         
-        ll ans= actual_sum-sum[idx][0];
+        ll ans= expected_sum-required_sum;
         if(ans<=0) return -1;
         
-        sum[idx][0]+=ans;
-        sum[jdx][1]+=ans;
-        if(idx==jdx) d1+=ans;
-        if(idx==n-jdx-1) d2+=ans;
-        
+        ll d1=0,d2=0,row_sum=0,col_sum=0,val1=0,val2=0;
         for(int i=0;i<n;i++) {
-            if(sum[i][0]!=actual_sum || sum[i][1]!=actual_sum) return -1;
+            row_sum=0;
+            col_sum=0;
+            for(int j=0;j<n;j++) {
+                val1=matrix[i][j];
+                val2=matrix[j][i];
+                if(j==idx && i==jdx) val2=ans;
+                if(i==idx && j==jdx) val1=ans;
+                row_sum+=val1;
+                col_sum+=val2;
+                if(i==j) d1+=val1;
+                if(i==n-j-1) d2+=val1;
+            }
+            if(row_sum!=expected_sum || col_sum!=expected_sum) return -1;
         }
-        if(d1!=actual_sum || d2!=actual_sum) return -1;
+        
+        if(d1!=expected_sum || d2!=expected_sum) return -1;
         
         return ans;
     }
