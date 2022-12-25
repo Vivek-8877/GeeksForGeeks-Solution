@@ -39,13 +39,7 @@ public:
             if(!isChanged) actual_sum=sum[i][0];
         }
         
-        ll ans=-1;
-        for(int i=0;i<n;i++) {
-            if(i!=idx) {
-                ans= actual_sum-sum[idx][0];
-                break;
-            }
-        }
+        ll ans= actual_sum-sum[idx][0];
         if(ans<=0) return -1;
         
         sum[idx][0]+=ans;
