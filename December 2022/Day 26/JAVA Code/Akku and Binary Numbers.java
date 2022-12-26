@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/akku-and-binary-numbers0902/1
-// Video Solution Link :- https://youtu.be/JlECraZ7Bxo
+// Video Solution Link :- https://youtu.be/COI8_zKAdno
 
 //{ Driver Code Starts
 //Initial Template for Java
