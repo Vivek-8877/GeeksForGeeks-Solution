@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/akku-and-binary-numbers0902/1
-// Video Solution Link :- 
+// Video Solution Link :- https://youtu.be/JlECraZ7Bxo
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
