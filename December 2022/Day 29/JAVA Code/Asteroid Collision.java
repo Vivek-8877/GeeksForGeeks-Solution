@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/asteroid-collision/1
-// Video Solution Link :- 
+// Video Solution Link :- https://youtu.be/zVwsRvAgEhk
 
 //{ Driver Code Starts
 // Initial Template for Java
