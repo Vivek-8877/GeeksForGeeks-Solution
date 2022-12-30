@@ -1,3 +1,5 @@
+<a href="https://practice.geeksforgeeks.org/problems/single-valued-subtree/1">![Geeksforgeeks](https://user-images.githubusercontent.com/91456523/210066211-175aa8c7-7e2d-40e6-981f-5d7b93d37118.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/single-valued-subtree/1">Single valued subtree</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a binary tree, count the number of Single Valued Subtrees. A Single Valued Subtree is one in which all the nodes have same value.&nbsp;</span></p>
 
 <p><span style="font-size:18px"><strong>Example 1</strong></span></p>
