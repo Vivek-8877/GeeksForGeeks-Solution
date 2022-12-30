@@ -1,5 +1,5 @@
-Probelm Link :- https://practice.geeksforgeeks.org/problems/single-valued-subtree/1
-Video Solution Link :- 
+// Probelm Link :- https://practice.geeksforgeeks.org/problems/single-valued-subtree/1
+// Video Solution Link :- 
 
 //{ Driver Code Starts
 //Initial Template for Java
