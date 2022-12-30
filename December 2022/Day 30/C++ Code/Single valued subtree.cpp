@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/single-valued-subtree/1
-// Video Solution Link :-
+// Video Solution Link :- https://youtu.be/kNoOw4UOtbg
 
 //{ Driver Code Starts
 //Initial Template for C++
