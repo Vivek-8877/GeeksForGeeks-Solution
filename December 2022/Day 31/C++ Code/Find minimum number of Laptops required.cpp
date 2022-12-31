@@ -1,5 +1,5 @@
 // Problem Link :- https://practice.geeksforgeeks.org/problems/af49b143a4ead583e943ca6176fbd7ea55b121ae/1
-// Video Solution Link :- https://youtu.be/HZkFMpu4EJs
+// Video Solution Link :- https://youtu.be/bHZontqMkfE
 
 //{ Driver Code Starts
 // Initial Template for C++
