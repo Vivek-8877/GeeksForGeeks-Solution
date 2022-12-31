@@ -1,6 +1,6 @@
 <h2><a href="https://youtu.be/bHZontqMkfE">Click Me For Video Solution</a></h2>
 
-<a href="https://youtu.be/bHZontqMkfE">![Geeksforgeeks](https://user-images.githubusercontent.com/91456523/210066211-175aa8c7-7e2d-40e6-981f-5d7b93d37118.png)</a>
+<a href="https://youtu.be/bHZontqMkfE">![Geeksforgeeks](https://user-images.githubusercontent.com/91456523/210129587-6b538564-7756-4071-97cf-3bb188b633e1.png)</a>
 
 <h2><a href="https://practice.geeksforgeeks.org/problems/af49b143a4ead583e943ca6176fbd7ea55b121ae/1">Find minimum number of Laptops required</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">There are <strong>N</strong>&nbsp;jobs and the start and finish time of the jobs are given in arrays <strong>start[]</strong> and <strong>end[]</strong> respectively. Each job requires one laptop and laptops can't be shared. Find the minimum number of laptops required given that you can give your laptop to someone else when you are not doing your job.</span></p>
 
