@@ -1,6 +1,6 @@
 <h2><a href="https://youtu.be/Y7g1gFCQ2Mg">Click Me For Video Solution</a></h2>
 
-<a href="https://youtu.be/bHZontqMkfE">![Geeksforgeeks](https://user-images.githubusercontent.com/91456523/210169073-d585cc36-f404-4cad-b955-4b8531a12fc5.png)</a>
+<a href="https://youtu.be/Y7g1gFCQ2Mg">![Geeksforgeeks](https://user-images.githubusercontent.com/91456523/210169073-d585cc36-f404-4cad-b955-4b8531a12fc5.png)</a>
 
 <h2><a href="https://practice.geeksforgeeks.org/problems/count-even-length1907/1">Count even length</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a number n, find count of all binary sequences of length 2n such that sum of first n bits is same as sum of last n bits.<br>
 The anwer can be very large. So, you have to return answer modulo 10<sup>9</sup>+7.</span></p>
