@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/V3WE-9zcuKw">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/V3WE-9zcuKw">![Geeksforgeeks (2)](https://user-images.githubusercontent.com/91456523/210321263-d2c16b56-4289-4799-82b0-fb9ca2ef98f8.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/7d0fa4007b8eabadc404fcc9fa917aa52982aa96/1">Minimize number of Students to be removed</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px"><strong>N</strong> Students of different heights are attending an assembly. The heights of the students are represented by an array<strong> </strong><strong>H[]. </strong>The problem is that if a student has less or equal height than the student standing in front of him, then he/she cannot see the assembly. Find the minimum number of students to be removed such that maximum possible number of students can see the assembly.</span><br>
 &nbsp;</p>
 
