@@ -25,20 +25,40 @@ class GFG {
 }
 // } Driver Code Ends
 
-
 //User function Template for Java
 
 class Solution {
+    // Time Complexity :- O(n.log(n));
+    // Space Complexity :- O(n);
     public int removeStudents(int[] H, int N) {
         // code here
-        TreeSet<Integer> set = new TreeSet<>();
+        int LIS = lengthOfLIS(H);
+        return N-LIS;
+    }
+    
+    public static int lengthOfLIS(int[] H) {
+        int[] a = new int[H.length+1];
+        Arrays.fill(a,Integer.MAX_VALUE);
+        a[0]=Integer.MIN_VALUE;
         for(int h : H) {
-            Integer c = set.ceiling(h);
-            if(c!=null) {
-                set.remove(c);
-            }
-            set.add(h);
+            int idx = searchLess(a,h);
+            a[idx+1]=h;
         }
-        return N-set.size();
+        for(int i=a.length-1;i>=0;i--) if(a[i]!=Integer.MAX_VALUE) return i;
+        return 0;
+    }
+    
+    public static int searchLess(int[] a,int n) {
+        int lo=0,hi=a.length-1,ans=0;
+        while(lo<=hi) {
+            int mid = lo+(hi-lo)/2;
+            if(a[mid]<n) {
+                lo=mid+1;
+                ans = Math.max(ans,mid);
+            } else {
+                hi=mid-1;
+            }
+        }
+        return ans;
     }
 };
