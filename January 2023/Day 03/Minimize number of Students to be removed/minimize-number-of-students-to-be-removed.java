@@ -27,6 +27,8 @@ class GFG {
 //User function Template for Java
 
 class Solution {
+    // Time Complexity :- O(n.log(n));
+    // Space Complexity :- O(n);
     public int removeStudents(int[] H, int N) {
         // code here
         int LIS = lengthOfLIS(H);
