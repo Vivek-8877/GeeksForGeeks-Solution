@@ -56,6 +56,8 @@ class GFG {
 
 
 class Solution {
+    // Time complexoty :- O(n.log(n));
+    // Space Complexity :- O(n);
     public static int maximum_profit(int n, int[][] intervals) {
         // code here
         Arrays.sort(intervals,(a,b) -> (a[0]-b[0]));
