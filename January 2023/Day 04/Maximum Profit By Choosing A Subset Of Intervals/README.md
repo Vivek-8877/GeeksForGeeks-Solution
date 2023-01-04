@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/56km7iw5JA8">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/56km7iw5JA8">![Geeksforgeeks (1)](https://user-images.githubusercontent.com/91456523/210490932-c2c34c7f-9fe7-4403-bd16-e22f631e7db1.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/649205908e04ac00f303626fa845261318adfa8f/1">Maximum Profit By Choosing A Subset Of Intervals</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a list&nbsp;<strong>intervals</strong>&nbsp;of&nbsp;<strong>n</strong>&nbsp;intervals, the&nbsp;<strong>ith</strong>&nbsp;element&nbsp;<strong>[s, e, p]</strong>&nbsp;denotes the starting point&nbsp;<strong>s</strong>, ending point&nbsp;<strong>e</strong>, and the profit&nbsp;<strong>p</strong>&nbsp;earned by choosing the&nbsp;<strong>ith</strong>&nbsp;interval. Find the maximum profit one can achieve by choosing a subset of non-overlapping intervals.</span></p>
 
 <p><span style="font-size:18px">Two intervals&nbsp;<strong>[s1, e1, p1]</strong>&nbsp;and&nbsp;<strong>[s2, e2, p2]</strong>&nbsp;are said to be non-overlapping if&nbsp;<strong>[e1 &lt;= s2]</strong>&nbsp;and&nbsp;<strong>[s1 &lt; s2]</strong>.</span></p>
