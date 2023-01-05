@@ -1,3 +1,8 @@
+![Geeksforgeeks (2)](https://user-images.githubusercontent.com/91456523/210829678-97b8dbd6-7d3d-425f-b30f-f6194ce5fb13.png)
+<h2><a href="https://youtu.be/my9oQ5rI-NA">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/my9oQ5rI-NA">![Geeksforgeeks (2)](https://user-images.githubusercontent.com/91456523/210829678-97b8dbd6-7d3d-425f-b30f-f6194ce5fb13.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/8d157f11af5416087251513cfc38ffc4d23be308/1">Find the longest string</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an array of strings <strong>arr[]</strong>. You have to find the longest string which is&nbsp;lexicographically smallest and also&nbsp;all of its prefix strings are already present in the array.</span></p>
 
 <p>&nbsp;</p>
