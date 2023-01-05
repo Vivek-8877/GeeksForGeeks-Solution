@@ -1,4 +1,4 @@
-![Geeksforgeeks (2)](https://user-images.githubusercontent.com/91456523/210829678-97b8dbd6-7d3d-425f-b30f-f6194ce5fb13.png)
+<!-- ![Geeksforgeeks (2)](https://user-images.githubusercontent.com/91456523/210829678-97b8dbd6-7d3d-425f-b30f-f6194ce5fb13.png) -->
 <h2><a href="https://youtu.be/my9oQ5rI-NA">Click Me For Video Solution</a></h2>
 
 <a href="https://youtu.be/my9oQ5rI-NA">![Geeksforgeeks (2)](https://user-images.githubusercontent.com/91456523/210829678-97b8dbd6-7d3d-425f-b30f-f6194ce5fb13.png)</a>
