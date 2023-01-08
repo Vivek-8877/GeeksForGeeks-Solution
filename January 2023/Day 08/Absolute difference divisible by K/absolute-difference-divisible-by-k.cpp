@@ -8,7 +8,8 @@ using namespace std;
 
 class Solution {
   public:
-  Time Com
+//   Time Complexity :- O(n.log(k));
+//   Space Complexity :- O(k);
     long long countPairs(int n, int arr[], int k) {
         // code here
         long long int ans=0;
