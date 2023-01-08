@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/_49QLRYTelM">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/_49QLRYTelM">![Geeksforgeeks (1)](https://user-images.githubusercontent.com/91456523/211188043-6d899ad3-64ee-4c30-a3e3-5471a5b9e0ed.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/e0059183c88ab680b2f73f7d809fb8056fe9dc43/1">Absolute difference divisible by K</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an array of integers&nbsp;of size <strong>n</strong> and an integer&nbsp;<strong>k</strong>, find all the pairs in the array&nbsp;whose absolute difference is divisible by k.</span><br>
 <br>
 <span style="font-size:18px"><strong>Example 1:</strong></span></p>
