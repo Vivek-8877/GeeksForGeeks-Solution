@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/TqssVrBl4DY">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/TqssVrBl4DY">![Geeksforgeeks (2)](https://user-images.githubusercontent.com/91456523/211573629-553262fc-a6ba-4c56-ba75-018b9491db4a.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/33af95e5935f1f2a0c3f5083c4b9d0db68e97bd4/1">Last modified ball</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Samwell laid out <strong>N</strong> bowls&nbsp;in a straight line&nbsp;and put a few marbles randomly in each bowl, i<sup>th</sup> bowl has <strong>A[i]</strong> marbles. A bowl can never have more than 9 marbles at a time. A&nbsp;bowl can have zero marbles. Now Samwells friend adds one more marble to the last bowl, after this addition all the bowls must still be aligned with the rules mentioned above. Adding a marble follows the same rules as of addition with carryover. You are given the initial list of the number of marbles in each bowl find the position of the bowl&nbsp;which was last modified. It is guaranteed that there is at least one bowl which has at least one space left.</span></p>
 
 <p><span style="font-size:18px"><strong>Note</strong>: Consider one-based indexing.</span></p>
