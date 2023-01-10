@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/ZAe1rVH2X1o">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/ZAe1rVH2X1o">![Geeksforgeeks (3)](https://user-images.githubusercontent.com/91456523/211573688-98f6b63a-f76e-4c71-a979-b3b42f3d3697.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/d7e0ce338b11f0be36877d9c35cc8dfad6636957/1">Transform to Sum Tree</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a Binary Tree of size N , where each node can have positive or negative values. Convert this to a tree where value of each node will be the sum of the values of all the nodes in left and right sub trees of the original tree. The values of leaf nodes are changed to 0.<br>
 <strong>Note: </strong>You have to modify the given tree in-place.</span></p>
 
