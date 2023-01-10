@@ -125,17 +125,17 @@ class Node{
 }*/
 
 class Solution{
+    // Time Complexity :- O(n);
+    // Space Complexity :- O(n);
     public void toSumTree(Node root){
          //add code here.
          update(root);
     }
-    
+    // returns sum of value all child of root Node.
     public static int update(Node root) {
         if(root==null) return 0;
-        int v1 = update(root.left);
-        int v2 = update(root.right);
         int d = root.data;
-        root.data=v1+v2;
-        return v1+v2+d;
+        root.data= update(root.left) + update(root.right);
+        return root.data+d;
     }
 }
