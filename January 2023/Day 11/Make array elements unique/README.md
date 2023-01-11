@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/KeRsWFhf_oY">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/KeRsWFhf_oY">![Geeksforgeeks (2)](https://user-images.githubusercontent.com/91456523/211808635-c6453b80-b376-4a67-80bf-680c69a2bb78.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/6e63df6d2ebdf6408a9b364128bb1123b5b13450/1">Make array elements unique</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an array <strong>arr[ ]&nbsp;</strong>of <strong>N&nbsp;</strong>elements, your task is to find the minimum number of increment operations required to make all the elements of the array unique. ie- no value in the array should occur more than once. In an operation a value can be incremented by 1 only.</span></p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
