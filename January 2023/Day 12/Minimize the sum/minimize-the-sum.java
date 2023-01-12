@@ -10,6 +10,8 @@ import java.io.*;
 //User function Template for Java
 
 class Solution {
+    // Time Complexity :- O(n.log(n));
+    // Space Complexity :- O(n);
     long minimizeSum(int N, int arr[]) {
         // code here
         PriorityQueue<Integer> pq = new PriorityQueue<>();
