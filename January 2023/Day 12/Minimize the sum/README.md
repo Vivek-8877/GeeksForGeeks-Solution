@@ -1,6 +1,6 @@
 <h2><a href="https://youtu.be/24LMzFFSApU">Click Me For Video Solution</a></h2>
 
-<a href="https://youtu.be/24LMzFFSApU">![Geeksforgeeks (1)](https://user-images.githubusercontent.com/91456523/210490932-c2c34c7f-9fe7-4403-bd16-e22f631e7db1.png)</a>
+<a href="https://youtu.be/24LMzFFSApU">![Geeksforgeeks](https://user-images.githubusercontent.com/91456523/212077280-609c0a80-31e0-46ba-be3f-7544b6ae81c1.png)</a>
 
 
 <h2><a href="https://practice.geeksforgeeks.org/problems/86e609332c9ef4f6b8aa79db11a6c0808c4a1bca/1">Minimize the sum</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">You are given&nbsp;<strong>N</strong>&nbsp;elements, you can remove any two elements from the list, note their sum, and add the sum to the list. Repeat these steps while there is more than a single element in the list. The task is to <strong>minimize</strong> the sum of these chosen sums.</span></p>
