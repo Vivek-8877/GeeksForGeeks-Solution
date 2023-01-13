@@ -1,3 +1,8 @@
+<h2><a href="https://youtu.be/TpScBTZS99U">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/TpScBTZS99U">![Geeksforgeeks (1)](https://user-images.githubusercontent.com/91456523/212285349-7da1c42b-b986-4ef1-a24f-053f15a32411.png)</a>
+
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/e9e2da3de3eb35679ca7e17b752ae877635f1a26/1">Count Lucky Permutations</a></h2><h3>Difficulty Level : Hard</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">You are given an array <strong>arr[ ]&nbsp;</strong>of integers having <strong>N&nbsp;</strong>elements and a non-weighted&nbsp;undirected graph having <strong>N</strong> nodes and&nbsp;<strong>M&nbsp;</strong>edges. The details of each edge in the graph is given to you in the form of list of list.&nbsp;<br>
 Your task is to find the number of lucky permutations of the&nbsp;given array.<strong>&nbsp;</strong></span></p>
 
