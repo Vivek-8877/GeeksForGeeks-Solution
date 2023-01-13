@@ -36,6 +36,8 @@ int i=0;
 // User function Template for Java
 
 class Solution {
+    // Time Complexity :- O(n*n*2^n);
+    // Space Complexity :- O(n*n*2^n);
     long luckyPermutations(int N, int M, int arr[], int[][] graph) {
         // Code here
         HashSet<Integer>[] grap = new HashSet[N+1];
@@ -46,6 +48,7 @@ class Solution {
         }
         return f(grap,arr,0,-1,0,new Long[N][N+2][1<<N]);
     }
+    
     long f(HashSet<Integer>[] graph,int[] a,int idx,int p_val,int visit,Long[][][] dp) {
         if(idx>=a.length) return 1;
         
