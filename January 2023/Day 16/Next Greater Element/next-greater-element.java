@@ -33,13 +33,14 @@ class GFG {
 // User Function Template for JAVA
 
 class Solution{
-    Time Complexity :- O(n)
+    // Time Complexity :- O(n);
+    // Space Complexity :- O(n);
     public static long[] nextLargerElement(long[] arr, int n) { 
         // Your code here
         long[] ans = new long[n];
         Stack<Long> stack = new Stack<>();
         for(int i=n-1;i>=0;i--) {
-            while(stack.size()>0 && stack.peek()<arr[i]) {
+            while(stack.size()>0 && stack.peek()<=arr[i]) {
                 stack.pop();
             }
             if(stack.size()==0) {
