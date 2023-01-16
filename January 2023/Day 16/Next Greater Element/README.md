@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/81hWgO-zaMo">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/81hWgO-zaMo">![16 JAN 2023 (2)](https://user-images.githubusercontent.com/91456523/212628028-636e3ff5-036f-4857-89cf-d067964879b7.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/214734e358208c1c6811d9b237b518f6b3c3c094/1">Next Greater Element</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an array <strong>arr[ ]</strong> of size <strong>n</strong> having distinct elements, the&nbsp;task is to find the next greater element for each element of the array in order of their appearance in the array.<br>
 Next greater element of an element in the array is the nearest element on the right which is greater than the current element.<br>
 If there does not exist next greater of current element, then next greater element for current element is -1. For example, next greater of the last element is always -1.</span></p>
