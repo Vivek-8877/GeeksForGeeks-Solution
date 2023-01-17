@@ -115,11 +115,14 @@ class GFG {
  */
 
 class Solution {
+    // Time Complexity :- O(n.log(val));
+    // Space Complexity :- O(1);
     int maxGCD(Node root) {
         // code here 
         return f(root)[1];
     }
-    
+    // 0th index --> Maximum GCD Value
+    // 1st index --> Node data according to this max. GCD
     int[] f(Node root) {
         if(root==null) return new int[]{0,0};
         int[] a1 = f(root.left);
