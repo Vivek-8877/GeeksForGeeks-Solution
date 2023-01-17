@@ -1,6 +1,6 @@
 <h2><a href="https://youtu.be/9muPCGLD2WQ">Click Me For Video Solution</a></h2>
 
-<a href="https://youtu.be/9muPCGLD2WQ">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/212829147-13076da9-946d-4972-8cdb-37908a2da513.png)</a>
+<a href="https://youtu.be/9muPCGLD2WQ">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/212829368-c36070fa-5c17-4301-999a-c5f858a0ceaa.png)</a>
 
 <h2><a href="https://practice.geeksforgeeks.org/problems/6eb51dc638ee1b936f38d1ab4b2f7062d4425463/1">Find the maximum GCD of the siblings of a Binary Tree</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a binary tree. The task is to find the maximum GCD&nbsp;of the siblings of this tree. You have to return the value of the node whose two immediate children has the maximum gcd.<br>
 If there are multiple such nodes, return&nbsp;the node which has the maximum value.</span></p>
