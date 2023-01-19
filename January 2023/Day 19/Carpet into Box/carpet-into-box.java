@@ -29,12 +29,13 @@ class Geeks
 
 
 class Solution{
+    // Time Complexity :- O(max(log(A),log(B)));
+    // Space Complexity :- O(1);
     int carpetBox(int A, int B, int C, int D) { 
         //code here
         int step=0;
         int l1=Math.max(A,B),b1=Math.min(A,B),l=Math.max(C,D),b=Math.min(C,D);
         while(l1>l || b1>b) {
-            // System.out.println("Before :- "+l1+" "+b1);
             if(l1>l && b1>b) {
                 l1/=2;
             } else if(l1>l) {
@@ -49,7 +50,6 @@ class Solution{
             b1 = Math.min(A,B);
             
             step++;
-            // System.out.println("After :- "+l1+" "+b1);
         }
         
         return step;
