@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/KeYW8OnXZmE">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/KeYW8OnXZmE">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/213358182-1a321536-3a43-4087-8be0-60746bc2020d.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/230d87552a332a2970b2092451334a007f2b0eec/1">Carpet into Box</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">There is a carpet&nbsp;of a size a*b [length * breadth]. You are given a box of size c*d.&nbsp;The task is, one has to fit the carpet in the box in a minimum number of moves.&nbsp;</span></p>
 
 <p><span style="font-size:18px"><strong>In one move, you can either decrease the length or the breath of the carpet by half (floor value of its half).</strong></span></p>
