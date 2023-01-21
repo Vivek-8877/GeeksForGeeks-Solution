@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/IhWwRQU7GPc">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/IhWwRQU7GPc">![16 JAN 2023 (2)](https://user-images.githubusercontent.com/91456523/213848685-3445781f-8897-41c4-8649-2e08f5031cad.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/1fc4278adf2a36780f637c7b4cd06391dd1487e4/1">Minimum X (xor) A</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two integers&nbsp;<strong>A</strong>&nbsp;and&nbsp;<strong>B</strong>, the task is to find an integer&nbsp;<strong>X</strong>&nbsp;such that&nbsp;<strong>(X XOR A)</strong>&nbsp;is minimum possible and the count of set bit in&nbsp;<strong>X</strong>&nbsp;is equal to the count of set bits in&nbsp;<strong>B</strong>.</span></p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
