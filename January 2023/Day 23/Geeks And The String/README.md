@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/LHYLXV-xh10">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/LHYLXV-xh10">![16 JAN 2023 (3)](https://user-images.githubusercontent.com/91456523/214033233-e2219673-26fb-4434-a035-4d1b5e18d5ad.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/466faca80c3e86f13880710491c634d26abd44a7/1">Geeks And The String</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Our geek loves to play with strings, Currently, he is trying to reduce the size of a string by recursively removing all the consecutive duplicate pairs. In other words, He can apply the below operations any number of times.</span></p>
 
 <ul>
