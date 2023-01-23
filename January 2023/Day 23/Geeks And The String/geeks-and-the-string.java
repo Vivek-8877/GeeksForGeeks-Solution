@@ -25,6 +25,8 @@ class GFG {
 
 
 class Solution {
+    // Time Complexity :- O(n);
+    // Space Complexity :- O(n);
     public static String removePair(String s) {
         // code here
         Stack<Character> stack = new Stack<>();
