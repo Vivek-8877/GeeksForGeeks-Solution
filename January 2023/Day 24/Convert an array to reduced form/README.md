@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/u0ktIcUCrkQ">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/u0ktIcUCrkQ">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/214221489-d178fcd6-1067-49d9-a0d2-45af64a6e3b1.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/convert-an-array-to-reduced-form1101/1">Convert an array to reduced form</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an array with <strong>N</strong>&nbsp;distinct elements, convert the given array to a reduced form where all elements are in range from <strong>0</strong> to <strong>N-1</strong>. The order of elements is same, i.e., <strong>0</strong> is placed in place of smallest element, <strong>1</strong> is placed for second smallest element, <strong>N-1</strong> is placed for largest element.</span></p>
 
 <p><strong><span style="font-size:18px">Note:&nbsp;</span></strong><span style="font-size:18px">You don't have to return anything. You just have to change the the given array.</span></p>
