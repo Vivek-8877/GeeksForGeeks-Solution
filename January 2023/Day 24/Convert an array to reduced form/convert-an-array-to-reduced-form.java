@@ -33,6 +33,8 @@ public class Main {
 //User function Template for Java
 
 class Solution {
+    // Time Complexity :- O(n.log(n));
+    // space Complexity :- O(n);
     void convert(int[] arr, int n) {
         //Code here
         TreeMap<Integer,Integer> map = new TreeMap<>();
