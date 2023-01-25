@@ -9,6 +9,8 @@ using namespace std;
 
 class Solution {
   public:
+    // Time Complexity :- O(n^2);
+    // Space Complexity :- O(1);
     int minOperation(string s) {
         // code here
         int ans=s.length();
