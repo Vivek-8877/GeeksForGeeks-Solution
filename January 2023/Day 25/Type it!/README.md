@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/6XaV_gRJIX0">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/6XaV_gRJIX0">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/214510003-47d2d78b-80c8-4227-91c9-1331e13e1462.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/95080eb9efbf7cc5cb4851ddf8d7946e3f212a49/1">Type it!</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Geek is extremely punctual&nbsp;but today even he is not feeling like doing his homework assignment. He must start doing it immediately in order to meet the&nbsp;deadline. For the assignment, Geek needs to type a&nbsp;string <strong>s</strong>.<br>
 To reduce his workload, he has decided to perform&nbsp;one of the following two operations till he gets the string.</span></p>
 
