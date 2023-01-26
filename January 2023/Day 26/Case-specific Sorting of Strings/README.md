@@ -1,6 +1,6 @@
 <h2><a href="https://youtu.be/nsdMem-dQ1o">Click Me For Video Solution</a></h2>
 
-<a href="https://youtu.be/nsdMem-dQ1o">![16 JAN 2023 (2)](https://user-images.githubusercontent.com/91456523/214770740-4f8cbd99-3e62-4c61-80fc-a3409537bc7c.png)</a>
+<a href="https://youtu.be/nsdMem-dQ1o">![16 JAN 2023 (2)](https://user-images.githubusercontent.com/91456523/214770803-8ae15b9b-8972-4d24-9cef-1c01e3ac1318.png)</a>
 
 <h2><a href="https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1">Case-specific Sorting of Strings</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a string <strong>S </strong>consisting of <strong>only</strong>&nbsp;<strong>uppercase </strong>and <strong>lowercase </strong>characters. The task is to <strong>sort </strong>uppercase and lowercase letters <strong>separately </strong>such that if the i<sub>th</sub> place in the original string had an Uppercase character then it should not have a lowercase character after being sorted and vice versa.</span></p>
 
