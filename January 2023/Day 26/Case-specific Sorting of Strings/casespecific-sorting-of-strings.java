@@ -12,6 +12,8 @@ import java.io.*;
 class Solution
 {
     //Function to perform case-specific sorting of strings.
+    // Time Complexity :- O(n.log(n));
+    // Space Complexity :- O(n);
     public static String caseSort(String str)
     {
         // Your code here
