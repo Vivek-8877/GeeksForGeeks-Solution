@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/Ue4jqHiE8YY">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/Ue4jqHiE8YY">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/215033417-11eef554-bb62-4bb1-9037-0774b4a2cb9a.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1">Total Decoding Messages</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">A top secret message containing letters from<code> A-Z </code>is being encoded to numbers using the following mapping:</span></p>
 
 <div class="highlighter-rouge">
