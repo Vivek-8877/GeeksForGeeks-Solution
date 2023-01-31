@@ -1,3 +1,6 @@
+<h2><a href="https://youtu.be/j2ztaPAF8x8">Click Me For Video Solution</a></h2>
+
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/fda70097eb2895ecfff269849b6a8aace441947c/1">Minimum times A has to be repeated such that B is a substring of it</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two strings <strong>A </strong>and<strong> B. </strong>Find minimum number of times A has to be repeated such that B is a Substring of it. If <strong>B</strong> can never be a substring then return <strong>-1</strong>.</span></p>
 
 <p>&nbsp;</p>
