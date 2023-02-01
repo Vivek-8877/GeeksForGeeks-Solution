@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/WM4BNTeCKCE">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/WM4BNTeCKCE">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/216020166-7883e233-a513-400a-a933-91fc9d31ae87.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/844b4fdcd988ac5461324d62d43f7892749a113c/1">Distinct Coloring</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">There is a row of <strong>N</strong>&nbsp;houses, each house can be painted with one of the three colors: red, blue or green. The cost of painting each house with a certain color is different. You have to paint all the houses such that no two adjacent houses have the same color. Find the minimum cost to paint all houses.</span></p>
 
 <p><span style="font-size:18px">The cost of painting each house in&nbsp;red, blue or green colour is given in the array <strong>r[]</strong>, <strong>g[]&nbsp;</strong>and&nbsp;<strong>b[]&nbsp;</strong>respectively.</span></p>
