@@ -11,13 +11,17 @@ class Solution{
 public:
     long long int distinctColoring(int N, int r[], int g[], int b[]){
         // code here
-        vector<vector<long long int>> dp(N+1,vector<long long int>(3,0));
+        long long int r1=0,g1=0,b1=0;
+        long long int next_r1=0,next_g1=0,next_b1=0;
         for(int i=N-1;i>=0;i--) {
-            dp[i][0]=min(dp[i+1][1],dp[i+1][2])+r[i];
-            dp[i][1]=min(dp[i+1][0],dp[i+1][2])+g[i];
-            dp[i][2]=min(dp[i+1][0],dp[i+1][1])+b[i];
+            r1=min(next_g1,next_b1)+r[i];
+            g1=min(next_r1,next_b1)+g[i];
+            b1=min(next_r1,next_g1)+b[i];
+            next_r1=r1;
+            next_g1=g1;
+            next_b1=b1;
         }
-        return min(dp[0][0],min(dp[0][1],dp[0][2]));
+        return min(r1,min(g1,b1));
     }
     
 };
