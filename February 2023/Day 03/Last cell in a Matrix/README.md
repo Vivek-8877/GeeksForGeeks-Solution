@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/Ozee_T0ESds">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/Ozee_T0ESds">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/216646631-6e24772d-0b3f-4442-b9f1-30d90d7e7a11.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/2e068e2342b9c9f40cfda1ed8e8119542d748fd8/1">Last cell in a Matrix</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a binary matrix&nbsp;of dimensions&nbsp;&nbsp;with <strong>R</strong>&nbsp;rows and <strong>C</strong>&nbsp;columns. Start from&nbsp;<strong>cell(0, 0)</strong>, moving in the&nbsp;<strong>right</strong> direction. Perform the following operations:&nbsp;</span></p>
 
 <ul>
