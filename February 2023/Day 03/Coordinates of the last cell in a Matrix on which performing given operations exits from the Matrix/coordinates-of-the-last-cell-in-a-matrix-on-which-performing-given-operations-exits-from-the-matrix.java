@@ -45,6 +45,8 @@ class GFG
 //User function Template for Java
 
 class Solution{
+    // Time Complexity :- O(n);
+    // Space Complexity :- O(1);
     static int [] endPoints(int [][]arr, int m, int n){
         //code here
         return f(arr,0,0,0,-1,-1);
