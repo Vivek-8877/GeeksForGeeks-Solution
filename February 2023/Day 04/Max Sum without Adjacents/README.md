@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/WFYYpDhjRGY">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/WFYYpDhjRGY">![16 JAN 2023 (3)](https://user-images.githubusercontent.com/91456523/216751132-ca1d67ba-1b97-481e-9307-a09a35599d6e.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/7a33c749a79327b2889d420dd80342fff33aac6d/1">Max Sum without Adjacents</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an array <strong>Arr&nbsp;</strong>of size <strong>N</strong>&nbsp;containing&nbsp;positive integers. Find the maximum sum of a subsequence such that no two numbers in the sequence should be adjacent in the array. </span></p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
