@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/GYn6dPFA9a0">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/GYn6dPFA9a0">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/216808841-1db5c897-0c49-42fa-8962-bc72cac33315.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/eae1fbd0ac8f213a833d231e26ba4d829e79dd9c/1">Intersection Point in Y Shaped Linked Lists</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two singly linked lists of size <strong>N</strong> and <strong>M, </strong>write a program to get the point where two linked lists intersect each other.</span></p>
 
 <p>&nbsp;</p>
