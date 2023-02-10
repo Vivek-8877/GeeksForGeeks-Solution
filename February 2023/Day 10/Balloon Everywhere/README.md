@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/vHmbqkhDKnQ">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/vHmbqkhDKnQ">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/217991287-90ea3ff8-9af0-428e-8a4a-65d1c4f6c381.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/45fa306a9116332ece4cecdaedf50f140bd252d4/1">Balloon Everywhere</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Bob is very fond of balloons. Once he visited an amusement park with his mother. The mother told Bob that she would buy him a balloon only if he answer her problem right. She gave Bob a string<strong>&nbsp;S </strong>[contains only lowercase characters]&nbsp;and asked him to use the characters of string to form&nbsp;as many instances of the word "balloon" as possible. Return the <strong>maximum</strong> number of instances that can be formed.</span></p>
 
 <p><span style="font-size:18px">Help Bob to solve the problem.</span></p>
