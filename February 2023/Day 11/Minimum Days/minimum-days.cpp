@@ -30,6 +30,8 @@ public:
 // } Driver Code Ends
 class Solution {
   public:
+    // Time Complexity :- O(n);
+    // Space Complexity :- O(1);
     int getMinimumDays(int N,string S, vector<int> &P) {
         // code here
         int ans=0;
