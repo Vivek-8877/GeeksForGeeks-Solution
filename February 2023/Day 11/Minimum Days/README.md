@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/ySfGZhSOq24">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/ySfGZhSOq24">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/218241867-4a96727e-b10b-444e-aa78-e1cea04a580b.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/f4d22b1f9d62e8bee0ff84e9fa51dc66eb5005ec/1">Minimum Days</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a string S of length N containing only lowercase alphabets. You are also given a permutation P of length N containing integers from 0 to N-1. In (i+1)'th day you can take the P[i] value of the permutation array and replace S[P[i]] with a '?'.</span></p>
 
 <p><span style="font-size:18px">For example in day 1, we can choose index of permutation array is i=0 and replace S[P[0]] with '?'.<br>
