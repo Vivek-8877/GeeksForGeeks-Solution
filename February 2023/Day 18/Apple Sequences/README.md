@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/CyGB6Xa3jh0">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/CyGB6Xa3jh0">![16 JAN 2023 (3)](https://user-images.githubusercontent.com/91456523/219856975-87e3ae59-c5a8-432c-b122-52eb8b32152e.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/38f100615d0b2efa755e7b07f905e0f8cd2fe5df/1">Apple Sequences</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">There is a string&nbsp;of size <strong>n</strong>&nbsp;containing only '<strong>A'</strong>&nbsp;and '<strong>O'</strong>. '<strong>A'</strong> stands for Apple, and '<strong>O'</strong> stands for Orange. We have&nbsp;<strong><em>m</em></strong>&nbsp;number of spells, each spell allows us to convert an orange into an apple. </span></p>
 
 <p><span style="font-size:18px">Find the longest sequence of apples you can make, given a string and the value of <strong>m</strong>.</span></p>
