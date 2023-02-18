@@ -31,11 +31,12 @@ class GFG
 
 
 class Solution{
+    // Time Complexity :- O(n);
+    // Space Complexity :- O(1);
     public static int appleSequence(int n, int m, String arr){
         //code here
         int i=0,j=0,o=0,ans=0;
         while(j<n) {
-            // System.out.println(i+" "+j+" "+o+" "+ans);
             if(arr.charAt(j)=='O') {
                 if(o<m) {
                     o++;
@@ -49,7 +50,6 @@ class Solution{
             }
             ans = Math.max(ans,j-i);
         }
-        // if(o<=m) ans = Math.max(ans,j-i);
         return ans;
     }
 }
