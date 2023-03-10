@@ -11,6 +11,8 @@ import java.util.*;
 //User function Template for Java
 
 class Solution {
+    // Time Complexity :- O(n);
+    // Space Complexity :- O(1);
     Long maxTripletProduct(Long arr[], int n)
     {
         // Complete the function
@@ -37,7 +39,6 @@ class Solution {
                 mn2=val;
             }
         }
-        // System.out.println(mx1+" "+mx2+" "+mx3+" "+mn1+" "+mn2);
         return Math.max(mn1*mn2*mx1,mx1*mx2*mx3);
     }
 }
