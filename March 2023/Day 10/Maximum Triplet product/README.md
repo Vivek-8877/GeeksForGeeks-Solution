@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/H_5oB5RCYNg">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/H_5oB5RCYNg">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/224227728-ed852328-607e-4265-a2d6-9a10b2d7ddad.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/d54c71dc974b7db3a200eb63f34e3d1cba955d86/1">Maximum Triplet product</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an array <strong>arr&nbsp;</strong>of size <strong>n</strong>, the task is to find the maximum triplet product in the array.</span></p>
 
 <p><br>
