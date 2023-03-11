@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/vpMUjT_i2j8">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/vpMUjT_i2j8">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/224464608-d15dfd4f-bf72-46f7-bf72-ec31ca0b3567.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/ad6699d4aaf84c74b119fac3b65e9ceb3fc8ef14/1">Yet another query problem</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">You are given an array of <strong>N</strong> elements and <strong>num</strong>&nbsp;queries, In each query you are given three numbers L,R and K and you have to tell, how many indexes are there in between L and R(L&lt;=i&lt;=R) such that the frequency of a[i] from index i to n-1 is k.</span></p>
 
 <p><span style="font-size:18px"><strong>Note:</strong> 0-based indexing</span></p>
