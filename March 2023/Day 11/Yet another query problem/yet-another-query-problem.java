@@ -102,6 +102,8 @@ class GFG {
 
 
 class Solution {
+    // Time Complexity :- O(n^2);
+    // Space Complexity :- O(n^2);
     public static ArrayList<Integer> solveQueries(int N, int num, int[] A, int[][] Q) {
         // code here
         int[] fre = new int[N];
