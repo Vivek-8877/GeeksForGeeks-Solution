@@ -11,30 +11,17 @@ using namespace std;
 
 class Solution {
 public:
-    // Time Complexity :- O(n.log(n));
-    // Space Complexity :- O(1);
     vector<int> findMaxRow(vector<vector<int>> mat, int N) {
         //code here
         vector<int> ans(2,0);
-        for(int i=0;i<N;i++) {
-            int ix = search(mat[i]);
-            if(N-ix>ans[1]) {
-                ans[1]=N-ix;
+        int i=0,j=N-1;
+        while(i<N && j>=0) {
+            while(j>=0 && mat[i][j]==1) j--;
+            if(N-j-1>ans[1]) {
+                ans[1]=N-j-1;
                 ans[0]=i;
             }
-        }
-        return ans;
-    }
-    int search(vector<int> a) {
-        int lo=0,hi=a.size()-1,ans=a.size();
-        while(lo<=hi) {
-            int mid = lo+(hi-lo)/2;
-            if(a[mid]==1) {
-                hi=mid-1;
-                ans=min(ans,mid);
-            } else {
-                lo=mid+1;
-            }
+            i++;
         }
         return ans;
     }
