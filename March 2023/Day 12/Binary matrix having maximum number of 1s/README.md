@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/CEFi8txpy54">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/CEFi8txpy54">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/224525495-6d2dbcb5-76f5-4640-a35f-8dab6827b272.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/77e1c3e12cd148f835d53eb168d4472b2ff539fa/1">Binary matrix having maximum number of 1s</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a binary matrix (containing only <strong>0</strong> and <strong>1</strong>) of order NxN. <strong>All rows are sorted already</strong>, We need to find the row number with the <strong>maximum number of 1s</strong>. Also, find the number of 1s in that row.<br>
 <strong>Note:</strong></span></p>
 
