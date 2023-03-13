@@ -30,6 +30,8 @@ class GFG{
 //User function Template for Java
 class Solution 
 { 
+    // Time Complexity :- O(n);
+    // Space Compleixty :- O(1);
     long maxPossibleValue(int N, int A[] ,int B[]) { 
         // code here
         long ans=0;
@@ -48,12 +50,10 @@ class Solution
                     pv=0;
                 }
             }
-            // System.out.println(ans);
         }
         if(pv!=0) {
             ans = Math.max(ans,ans-2*min+2*pv);
         }
-        // System.out.println(min);
         return ans;
     }
-} 
+}
