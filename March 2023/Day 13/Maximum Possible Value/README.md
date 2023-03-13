@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/5uvpsc9FNIY">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/5uvpsc9FNIY">![16 JAN 2023 (2)](https://user-images.githubusercontent.com/91456523/224610757-a0dd4319-476b-49d2-b307-e01055664754.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/2d3fc3651507fc0c6bd1fa43861e0d1c43d4b8a1/1">Maximum Possible Value</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two arrays <strong>A[]</strong> and <strong>B[]</strong> of same length <strong>N</strong>. There are N types of sticks of lengths specified. Each stick of length <strong>A[i]&nbsp;</strong>is present in <strong>B[i]</strong>&nbsp;units (i=1 to N). You have to construct the squares and rectangles using these sticks. Each unit of a stick can be used as length or breadth of a rectangle or as a side of square. A single unit of a stick can be used only once.</span></p>
 
 <p><span style="font-size:18px">Let <strong>S</strong> be the sum of lengths of all sticks that are used in constructing squares and rectangles. The task is to calulate the maximum possible value of S.</span></p>
