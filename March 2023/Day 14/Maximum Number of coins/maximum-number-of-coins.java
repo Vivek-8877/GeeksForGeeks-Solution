@@ -34,12 +34,6 @@ class Solution{
 	
 	public static int f(ArrayList<Integer> arr,int lo,int hi,Integer[][] dp) {
 	    if(lo>hi) return 0;
-	    if(lo==hi) {
-	        int ans=arr.get(lo);
-	        if(lo-1>=0) ans*=arr.get(lo-1);
-	        if(lo+1<arr.size()) ans*=arr.get(lo+1);
-	        return ans;
-	    }
 	    
 	    if(dp[lo][hi]!=null) return dp[lo][hi];
 	    
