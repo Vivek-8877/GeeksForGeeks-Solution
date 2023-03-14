@@ -17,12 +17,6 @@ class Solution{
         }
         int f(vector <int> &arr,int lo,int hi,vector<vector<int>>& dp) {
     	    if(lo>hi) return 0;
-    	    if(lo==hi) {
-    	        int ans=arr[lo];
-    	        if(lo-1>=0) ans*=arr[lo-1];
-    	        if(lo+1<arr.size()) ans*=arr[lo+1];
-    	        return ans;
-    	    }
     	    
     	    if(dp[lo][hi]!=-1) return dp[lo][hi];
     	    
