@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/eQ7WGMC4QKo">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/eQ7WGMC4QKo">![16 JAN 2023 (3)](https://user-images.githubusercontent.com/91456523/224926906-136f3bf4-afa0-4636-92cc-45672ba0e4f6.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/7ae455e552dc4e07f76bbe2adc4d4207ce1ff16e/1">Maximum Number of coins</a></h2><h3>Difficulty Level : Hard</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">We have been given N balloons, each with a number of coins associated with it. On bursting a balloon i, the number of coins gained is equal to A[i-1]*A[i]*A[i+1].<br>
 Also, balloons i-1 and i+1 now become adjacent. Find the maximum possible profit earned after bursting all the balloons. Assume an extra 1 at each boundary.</span></p>
 
