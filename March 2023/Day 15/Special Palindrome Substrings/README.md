@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/kKVaKhexGBc">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/kKVaKhexGBc">![16 JAN 2023 (4)](https://user-images.githubusercontent.com/91456523/225231033-cc5b7492-0a17-4b81-a669-878f3d292dfb.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/d7cd0429f9cf85f421831c4f6d50fad99566c1f9/1">Special Palindrome Substrings</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two strings s1 and s2, The task is to convert s1 into a palindrome such that s1 contain s2 as a substring in a minimum number of operation.<br>
 In a&nbsp;single operation, we can replace any word of s1 with any character.</span></p>
 
