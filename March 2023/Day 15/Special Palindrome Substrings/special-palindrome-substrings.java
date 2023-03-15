@@ -33,6 +33,8 @@ class GFG {
 
 
 class Solution{
+    // Time Complexity :- O(n^2);
+    // Space Complexity :- O(1); 
     public  static int specialPalindrome(String a, String b){
        //Code Here
        int ans=Integer.MAX_VALUE;
