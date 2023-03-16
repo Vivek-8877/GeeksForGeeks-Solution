@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/ACkrO9h-xUU">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/ACkrO9h-xUU">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/225535911-e3869655-ca23-480a-b19e-984e2b4c530c.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/5c2734730cb1e98e3877a0b91f7d680d0efc8acf/1">Second smallest number</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">The task is to find the <strong>second</strong> smallest number with a given&nbsp;sum of digits as&nbsp;<strong>S</strong>&nbsp;and the number of digits as&nbsp;<strong>D.</strong></span><br>
 <span style="font-size:18px"><strong>Example 1:</strong></span></p>
 
