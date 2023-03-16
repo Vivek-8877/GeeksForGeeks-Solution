@@ -26,6 +26,8 @@ class GFG
 
 //User function Template for Java
 class Solution{
+    // Time Complexity :- O(n);
+    // Space Compleixty :- O(1);
     static String secondSmallest(int S, int D){
         // code here
         if(D==1 || S==1 || S>=9*D) return "-1";
