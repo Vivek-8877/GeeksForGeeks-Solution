@@ -26,6 +26,8 @@ class GFG{
 //User function Template for Java
 
 class Solution{
+    // Time Complexity :- O(n);
+    // Space Compleixty :- O(1);
 	long no_of_subarrays(int N, int [] arr) {
 		//Write your code here
 		long ct=0,ans=0;
