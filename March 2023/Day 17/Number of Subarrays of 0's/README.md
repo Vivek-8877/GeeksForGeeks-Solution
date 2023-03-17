@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/fn2sBIVUxu8">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/fn2sBIVUxu8">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/225804514-a6ff500a-50e0-4861-88f7-9d9ec0b18b5a.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/0960a833f70b09c59444ea487f99729929fc8910/1">Number of Subarrays of 0's</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">You are given an array <strong>arr</strong>&nbsp; of length<strong> N</strong> of 0's and 1's. Find the total number of subarrays of 0's</span></p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
