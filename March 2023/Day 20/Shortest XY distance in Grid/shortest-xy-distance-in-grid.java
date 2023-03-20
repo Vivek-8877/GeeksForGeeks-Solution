@@ -35,6 +35,8 @@ class GFG {
 // User function Template for Java
 
 class Solution {
+    // Time Complexity :- O(n*m);
+    // Space Compleixty :- O(n*m);
     static int shortestXYDist(ArrayList<ArrayList<Character>> grid, int N,
                               int M) {
         // code here
@@ -48,10 +50,15 @@ class Solution {
             int i=p[0],j=p[1];
             if(visit[i][j]==1) continue;
             visit[i][j]=1;
+            
             if(grid.get(i).get(j)=='Y') return p[2];
+            // down
             if(isValid(i+1,j,N,M,visit)) pq.offer(new int[]{i+1,j,p[2]+1});
+            // right
             if(isValid(i,j+1,N,M,visit)) pq.offer(new int[]{i,j+1,p[2]+1});
+            // up
             if(isValid(i-1,j,N,M,visit)) pq.offer(new int[]{i-1,j,p[2]+1});
+            // left
             if(isValid(i,j-1,N,M,visit)) pq.offer(new int[]{i,j-1,p[2]+1});
         }
         return -1;
