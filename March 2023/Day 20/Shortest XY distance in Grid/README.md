@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/LQI7OHczMrE">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/LQI7OHczMrE">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/226261225-519fe845-c56b-44df-90f6-33f0ae5ab2c3.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/7366ce450d84b55391fc787a681c4d60de359e72/1">Shortest XY distance in Grid</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Give a <strong>N*M </strong>grid of characters 'O', 'X', and 'Y'. Find the minimum&nbsp;Manhattan&nbsp;distance between a&nbsp;<strong>X</strong> and a&nbsp;<strong>Y</strong>.</span><br>
 <br>
 <span style="font-size:18px"><u>Manhattan&nbsp;Distance</u> :<br>
