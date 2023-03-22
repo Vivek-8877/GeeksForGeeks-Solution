@@ -34,6 +34,8 @@ class GFG{
 
 class Solution 
 { 
+    // Time Complexity :- O(n);
+    // Space Complexity :- O(n);
     static long solve(int X,int Y, String S)
 	{    
 	    // code here
