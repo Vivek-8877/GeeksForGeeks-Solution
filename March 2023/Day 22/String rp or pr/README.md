@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/gJJomUZqf8A">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/gJJomUZqf8A">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/226838070-e7a3d081-19f7-4997-be8d-87a8213d0839.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/d25f415de2ff3e02134de03e17ad019d723ab2e9/1">String rp or pr</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a string S. In one operation, you can remove the substring "pr" from the string S and get amount X or you can remove the substring "rp" and get the amount Y.&nbsp;<br>
 Find the maximum amount you can get if you perform zero or more such operations optimally.&nbsp;</span></p>
 
