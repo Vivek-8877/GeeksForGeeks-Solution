@@ -1,6 +1,6 @@
-<h2><a href="https://youtu.be/gJJomUZqf8A">Click Me For Video Solution</a></h2>
+<h2><a href="https://youtu.be/I_3WHuWMvM8">Click Me For Video Solution</a></h2>
 
-<a href="https://youtu.be/gJJomUZqf8A">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/226838070-e7a3d081-19f7-4997-be8d-87a8213d0839.png)</a>
+<a href="https://youtu.be/I_3WHuWMvM8">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/227119744-0dd3f8bf-5223-40ad-b60d-7dabf3b45ece.png)</a>
 
 <h2><a href="https://practice.geeksforgeeks.org/problems/e841e10213ddf839d51c2909f1808632a19ae0bf/1">BST Maximum Difference</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">You are given a Binary Search Tree and a target value. You must&nbsp;find the maximum difference between the sum of node data from root to target and from target to a child leaf node (target exclusive). Initially, you are at the <strong>root </strong>node.<br>
 <strong>Note: </strong>If the target node is not present in the tree&nbsp;then return -1.</span></p>
