@@ -56,18 +56,12 @@ class GFG {
 
 class Solution
 {
+    // Time Complexity :- O(n);
+    // Space Complexity :- O(n);
     public static int maxDifferenceBST(Node root,int target)
     {
         //Please code here
         return search(root,target,0);
-    }
-    
-    public static void f(Node r) {
-        if(r==null) return;
-        System.out.println("Pre -> "+r.data);
-        f(r.left);
-        f(r.right);
-        System.out.println("Post -> "+r.data);
     }
     
     public static int search(Node root,int target,int sum) {
@@ -79,7 +73,6 @@ class Solution
         } else {
             int min = Math.min(minimumSum(root.left),minimumSum(root.right));
             if(min==Integer.MAX_VALUE) min=0;
-            // System.out.println(min+" "+sum);
             return sum-min;
         }
     }
