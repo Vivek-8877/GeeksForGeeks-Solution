@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/X3Uq3p9Ao9g">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/X3Uq3p9Ao9g">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/227435270-5498a05b-3de6-480c-8bf2-5545931f4098.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/1e2f365be6114b671b915e145ec7dbcfdc432910/1">Remove and Reverse</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a string&nbsp;<strong>S </strong>which consists of only lower case English alphabets, you have to perform the below&nbsp;operations:<br>
 If the string <strong>S</strong> contains any repeating character, remove the first repeating&nbsp;character and reverse the string&nbsp;and again perform the above operation on the modified string, otherwise, you stop.<br>
 You have to find the final string.</span></p>
