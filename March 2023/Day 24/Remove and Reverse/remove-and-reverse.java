@@ -22,6 +22,8 @@ class GFG{
 
 class Solution 
 { 
+    // Time Complexity :- O(n);
+    // Space Compleixty :- O(n);
     String removeReverse(String S) 
     { 
         // code here
