@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/cgTcGmzYNt8">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/cgTcGmzYNt8">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/227864754-3ed2f0ba-9b28-4917-8d3b-c87be3a4260e.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/c239059f6d110e6778cc2f2a1ab58ffd0a3d64ca/1">Divide in Incremental Groups</a></h2><h3>Difficulty Level : Hard</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two integers <strong>N</strong> and <strong>K</strong>, the task is to count the number of ways to divide <strong>N</strong> into <strong>K</strong> groups of positive integers such that their sum is <strong>N</strong> and the number of elements in groups follows a non-decreasing order (i.e.&nbsp;<strong>group[i] &lt;= group[i+1])</strong>.</span></p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
