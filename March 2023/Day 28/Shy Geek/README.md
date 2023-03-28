@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/b4OasfGlXD8">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/b4OasfGlXD8">![16 JAN 2023 (2)](https://user-images.githubusercontent.com/91456523/228150086-e48290bb-df80-4ce1-94ec-2cb42441b9ba.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/59dfb26eb6c659e6e5f60869ac335f450f97165a/1">Shy Geek</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Geek went to buy some chocolates from a nearby shop with <strong>k</strong> coins in his pocket. He found that the shop contains <strong>n</strong> chocolates which are arranged in <strong>sorted order (increasing)</strong> of their prices.<br>
 <br>
 Now geek wants to taste costlier chocolates so he decided that <strong>he will buy the costliest chocolate</strong> (of course among the ones that he can afford) till there exists at least one type of chocolate he can afford. You may assume that there is an infinite supply of chocolates in the shop Geek visited.<br>
