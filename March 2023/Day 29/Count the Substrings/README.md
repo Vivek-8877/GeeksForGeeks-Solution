@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/KvNu56yXB5c">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/KvNu56yXB5c">![16 JAN 2023 (3)](https://user-images.githubusercontent.com/91456523/228423299-226356b4-6355-4fd9-bf9b-7161ea762a68.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/839d6ba2c2e4c669ba9d9d9f32ad20118937284e/1">Count the Substrings</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a string&nbsp;<strong>S</strong>. The task is to count the number of substrings which contains equal number of lowercase and uppercase letters.&nbsp;</span></p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
