@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/JfFlI6dHRBo">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/JfFlI6dHRBo">![16 JAN 2023 (1)](https://user-images.githubusercontent.com/91456523/229025785-e44f8e74-823e-4782-b09b-2fe246961a86.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/even-swap/1">Even Swap</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">You are given an array<strong> a</strong> and you need to generate an array <strong>b</strong>. You are allowed to apply only one type of operation on the array <strong>a,&nbsp;</strong>any number of times. In one operation you can swap <strong>a<sub>i</sub></strong>,&nbsp;<strong>a<sub>i+1</sub></strong> if <strong>a<sub>i</sub>+a<sub>i+1</sub></strong> is even.</span><br>
 <span style="font-size:18px">Array <strong>b </strong>should be generated after applying the above operation any number of times on array <strong>a</strong> and array <strong>b</strong> should be lexicographically the largest among all arrays that can be generated from array <strong>a,</strong>&nbsp;after applying the above operation any number of times.</span></p>
 
