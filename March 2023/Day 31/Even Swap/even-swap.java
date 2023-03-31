@@ -41,14 +41,12 @@ class Solution{
 		        previousIndex=i;
 		    }
 		}
-// 		System.out.println(previousIndex);
 		Arrays.sort(arr,previousIndex,n);
 		reverse(arr,previousIndex,n-1);
 		return arr;
 	}
 	
 	void reverse(int[] a,int strt,int end) {
-	   // System.out.println(Arrays.toString(a));
 	    ArrayList<Integer> list = new ArrayList<>();
 	    for(int i=strt;i<=end;i++) list.add(a[i]);
 	    for(int i=strt,j=list.size()-1;i<=end;i++,j--) a[i]=list.get(j);
