@@ -1,3 +1,8 @@
+<h2><a href="https://youtu.be/EBGE_KRzKMU">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/EBGE_KRzKMU">![16 JAN 2023 (2)](https://user-images.githubusercontent.com/91456523/229267513-50f1ecfa-5a30-48fb-ad55-0d2d078f4b6d.png)</a>
+
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/1f05c7c12b1084f270c57566b2110967c046730d/1">Make Array Elements Equal</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">You are given an integer <strong>N</strong>. Consider an array <strong>arr </strong>having <strong>N</strong> elements where <strong>arr[i]</strong> = <strong>2*i+1</strong>. (The array&nbsp;is 0-indexed)</span></p>
 
 <p><span style="font-size:18px">You are allowed to perform the given operation on the array any number of times:</span></p>
