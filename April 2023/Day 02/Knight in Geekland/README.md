@@ -1,3 +1,7 @@
+<h2><a href="https://youtu.be/ebatgd3xiZU">Click Me For Video Solution</a></h2>
+
+<a href="https://youtu.be/ebatgd3xiZU">![16 JAN 2023](https://user-images.githubusercontent.com/91456523/229340565-c6e00691-33ff-4e29-8fa2-b026c2c3ba86.png)</a>
+
 <h2><a href="https://practice.geeksforgeeks.org/problems/7e5ec07f9d865297cff9a91522c2ce805433b420/1">Knight in Geekland</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Knight is at <strong>(start_x,start_y)</strong> in Geekland which is represented by an <strong>NxM</strong> 2D matrix.<br>
 Each cell in the matrix contains some points. In the ith step, the knight can collect all the points from all the cells that can be visited in exactly i steps without revisiting any cell.<br>
 Also, the knight has some magical powers that enable him to fetch coins from the future i.e. If the knight can collect y coins in the xth step he can fetch all the coins that he will collect in the (x + y)th step and if the knight can collect z&nbsp;coins in the yth step he can fetch all the coins that he will collect in the (y&nbsp;+ z)th step and so on without increasing the step count i.e. knight will stay on xth step and will get all the coins of the future steps mentioned above((x + y)th step coins + (y+z)th steps + ...).<br>
