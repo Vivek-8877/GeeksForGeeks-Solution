@@ -43,6 +43,8 @@ public class Main{
 //User function Template for Java
 
 class Solution{
+    // Time Complexity :- O(n*m);
+    // Space Complexity :- O(n*m);
     public int knightInGeekland(int arr[][], int start_x, int start_y){
         // Code Here.
         int[][] steps = {{-1,-2},{-2,-1},{-1,2},{-2,1},{1,-2},{2,-1},{1,2},{2,1}};
@@ -68,7 +70,6 @@ class Solution{
             }
             points.add(point);
         }
-        // System.out.println(points);
         int ans=0,max_point=0;
         for(int i=0;i<points.size();i++) {
             int idx=i;
